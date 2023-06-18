@@ -1,1 +1,5 @@
-#opa
+export default function Opa(){
+    return (
+        <></>
+    )
+}
